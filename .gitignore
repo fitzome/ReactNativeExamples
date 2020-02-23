@@ -65,3 +65,8 @@ package-lock.json
 babel.config.js 
 app.json
 .prettierrc.js
+.eslintrc.js
+.flowconfig
+metro.config.js 
+.gitignore
+.gitattributes
